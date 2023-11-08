@@ -1,3 +1,15 @@
+## Screenshorts: 
+
+Landing Page
+![image](https://github.com/whynesspower/fyle-internship-challenge-23/assets/77494053/37fb1dd9-0223-49d4-a729-542ed1ceb68e)
+
+Skimmer
+![image](https://github.com/whynesspower/fyle-internship-challenge-23/assets/77494053/9dc3180a-fe30-4c99-b5e9-ef50198fc047)
+
+Repository Page
+![image](https://github.com/whynesspower/fyle-internship-challenge-23/assets/77494053/1bf57d0c-eca2-460a-a51c-2602cc270f13)
+
+
 # Fyle Frontend Challenge
 
 ## Who is this for?
