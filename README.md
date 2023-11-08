@@ -30,10 +30,14 @@ The services that you need to use are already implemented - check out ApiService
 
 You can see details of this challenge [here](https://fyleuniverse.notion.site/fyleuniverse/Fyle-Frontend-development-challenge-cb5085e5e0864e769e7b98c694400aaa)
 
-**Note** - This challenge is in angular. We work on angular frameworks & after you join we expect the same from you. Hence it is required to complete this assignement in angular itself.
+**Note** - This cha
+
+
+llenge is in angular. We work on angular frameworks & after you join we expect the same from you. Hence it is required to complete this assignement in angular itself.
 
 ### Demo Video
-https://github.com/whynesspower/fyle-internship-challenge-23/blob/master/src/assets/demo-video.mp4
+https://github.com/whynesspower/fyle-internship-challenge-23/assets/77494053/b378d4cc-fb90-48ba-a49f-a9c971c05445
+
 
 
 ## What happens next?
