@@ -21,7 +21,7 @@ You can see details of this challenge [here](https://fyleuniverse.notion.site/fy
 **Note** - This challenge is in angular. We work on angular frameworks & after you join we expect the same from you. Hence it is required to complete this assignement in angular itself.
 
 ### Demo Video
-
+https://github.com/whynesspower/fyle-internship-challenge-23/blob/master/src/assets/demo-video.mp4
 
 
 ## What happens next?
